@@ -31,13 +31,14 @@ to get started:
 5. **GitHub Account:** If you don't already have a GitHub account, go to [www.github.com](https://www.github.com)
    and create one. Please use your real name as your GitHub username, all in lowercase with no spaces (e.g., `samirm00`).
 
-6. **Fork the Repository:** Fork the assignment repository by clicking on `Fork`, then you will have your own copy of the repo on your GitHub account.
-7. **Clone your repo from your GitHub account:** Clone the assignment repository by clicking on `Code`, then copy `HTTPS` link
+6. **Fork the Repository:** Fork the assignment repository by clicking on `Fork`,
+then you will have your own copy of the repo on your GitHub account.
+7. **Clone your repo from your GitHub account:** Clone the assignment repository by clicking on `Code`,
+then copy `HTTPS` link
 8. **Open your terminal:** Open your Terminal or Git bash on Windows and type
 
 ```bash
-git clone <HTTPS link>
-```
+git clone <HTTPS link>```
 
 9. **Open your cloned repo in VS code** : open the cloned repo in VS code.
 10. **Open Terminal in VS Code:** Open Visual Studio Code and click on "Terminal," then choose "New Terminal."
