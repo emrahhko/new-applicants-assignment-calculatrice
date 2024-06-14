@@ -14,7 +14,7 @@ to make it functional.
 ## Set up
 
 Before you start working on the assignment, you need to set up your development environment. Follow these steps
-to get started:
+to get started::
 
 1. **Node.js:** Ensure you have Node.js installed. If not, please install it from [https://nodejs.org/](https://nodejs.org/).
 
